@@ -7,7 +7,7 @@ function CardBolo(props: any) {
         <div id="card">
             <div>
                 <img
-                    src={" http://localhost:3000/static/" + props.imagens}
+                    src={" http://localhost:3000/static/" + props.foto}
                     alt={"Foto de um " + props.nome}
                 />
             </div>

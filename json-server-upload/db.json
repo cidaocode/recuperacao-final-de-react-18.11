@@ -1,0 +1,53 @@
+{
+  "bolos": [
+    {
+      "nome": "Bolo de cenoura",
+      "cobertura": "Margarina, Açúcar, Chocolate em pó solúvel, Leite",
+      "ingredientes": "Cenouras, Margarina, Ovos, Açúcar, Farinha de trigo, Fermento químico em pó",
+      "valor": "55",
+      "user_img": "1699381362195.png",
+      "id": 1
+    },
+    {
+      "nome": "Bolo  de Mulango",
+      "valor": "100",
+      "ingredientes": "FARINHA\r\nOVOS\r\nLEITE\r\nMANTEIGA\r\nOLEO\r\nMULANGOS",
+      "cobertura": "CHOCOLATE AO LEITE\r\nCHANTILI\r\nCREME DE MULANGO",
+      "user_img": "1700328547791.png",
+      "id": 2
+    },
+    {
+      "nome": "Bolo  com muito Mulango",
+      "valor": "150",
+      "ingredientes": "FARINHA\r\nOVOS\r\nLEITE\r\nMANTEIGA\r\nOLEO\r\nMULANGOS",
+      "cobertura": "CHOCOLATE AO LEITE\r\nCHANTILI\r\nCREME DE MULANGO",
+      "user_img": "1700328565731.png",
+      "id": 3
+    },
+    {
+      "nome": "Bolo com bastante Mulangos silvestre",
+      "valor": "135",
+      "ingredientes": "FARINHA\r\nOVOS\r\nLEITE\r\nMARGARINA\r\nOLEO\r\nACUCAR",
+      "cobertura": "CHANTILI CREMOSO",
+      "user_img": "1700329674150.png",
+      "id": 4
+    },
+    {
+      "nome": "Bolo com bastante Mulangos silvestre",
+      "valor": "135",
+      "use_img": "undefined",
+      "ingredientes": "MMMMMMMMMM",
+      "cobertura": "MMMMMMMMMMMM",
+      "user_img": "",
+      "id": 5
+    },
+    {
+      "nome": "Bolo com bastante Mulangos silvestre",
+      "valor": "135",
+      "ingredientes": "MMMMMMMMMM",
+      "cobertura": "MMMMMMMMMMMM",
+      "user_img": "1700329820741.png",
+      "id": 6
+    }
+  ]
+}

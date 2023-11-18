@@ -19,8 +19,8 @@ function Header() {
                     <img src={imgLogo} alt="logo bolos julia" />
                     <nav>
                         <Link to={"#"}>Home</Link>
-                        <Link to={"#"}>Cadastrar</Link>
-                        <Link to={"#"}>Bolos</Link>
+                        <Link to={"cadastroBolo"}>Cadastrar</Link>
+                        <Link to={"ListaBolo"}>Bolos</Link>
                     </nav>
                 </div>
                 <div className="linha2">
